@@ -2,7 +2,7 @@
 
 <!--<img alt="Undid-Iridium's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undid-iridium&theme=radical&layout=compact">-->
 
-[![Undid-Iridium's GitHub stats](https://github-readme-stats.vercel.app/api?username=undid-iridium)](https://github.com/undid-iridium/github-readme-stats)
+[![Undid-Iridium's GitHub stats](https://github-readme-stats.vercel.app/api?username=undid-iridium&theme=radical&layout=compact)](https://github.com/undid-iridium/github-readme-stats)
 
 
 
